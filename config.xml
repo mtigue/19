@@ -36,7 +36,7 @@
     <preference name="AutoHideSplashScreen " value="false" />
 
     
-    <preference name="splash-screen-duration" value="4000" />
+    <preference name="splash-screen-duration" value="0000" />
     
     
     <!-----------------------white list testing-------------------------->    
