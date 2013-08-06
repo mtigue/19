@@ -9,7 +9,7 @@
     <name>PDXvocations</name> 
 
     <description>
-     A discernment for discerning your vocation. Includes prayers, questions, videos, scripture, reflections, news, and more. 
+     A guide for discerning your vocation. Includes prayers, questions, videos, scripture, reflections, news, and more. 
 
 
 </description>
@@ -32,11 +32,8 @@
     <preference name="detect-data-types" value="true" />
     <preference name="exit-on-suspend" value="true" />
     <preference name="show-splash-screen-spinner" value="true" />
-    
-   
-
-    
-    <preference name="splash-screen-duration" value="0000" />
+        
+    <preference name="splash-screen-duration" value="0001" />
     
     
     <!-----------------------white list testing-------------------------->    
