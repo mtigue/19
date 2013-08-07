@@ -40,7 +40,7 @@
     
     <!-----------------------white list testing-------------------------->    
     
-    <access origin="*" />    
+    <access origin="http://www.web4uonline.com" browserOnly="true" />    
 
     
     
